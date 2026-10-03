@@ -1,4 +1,4 @@
- Bank Marketing Analysis - cleaning
+ #Bank Marketing Analysis - cleaning
 
 Cleaning 41,188 direct marketing call records from a Portuguese bank, in Python and pandas.
 Stage one of the project — exploratory analysis in progress.
