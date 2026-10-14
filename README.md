@@ -38,7 +38,6 @@ different question: how campaign performance tracked the 2008–2010 downturn.
 ## Running it
 
 ```bash
-pip install -r requirements.txt
 jupyter notebook bank-marketing-campaigns-data-cleaning.ipynb
 ```
 
