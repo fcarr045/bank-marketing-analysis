@@ -16,8 +16,6 @@ This is the final stage of the project. It turns the findings from the explorato
  
 ## Dashboard 1: Who should the bank call?
  
-![Who should the bank call dashboard](tableau_who_to_call.png)
- 
 Each bar shows a group's **subscription rate**. The gray line marks the **11.3% baseline**, which is the rate across all calls. Blue bars beat the baseline and red bars fall below it. Each label shows the rate and the group size (`n`), so small groups are easy to spot.
  
 **What it shows:**
@@ -25,8 +23,6 @@ Each bar shows a group's **subscription rate**. The gray line marks the **11.3% 
 - **Age is U-shaped.** Clients 60+ subscribed at **39.6%**, but received under 3% of calls. Clients aged 40–49 were the lowest, at 7.9%.
 - **Students lead the jobs** at **31.4%**. Blue-collar workers got the second-most calls (9,254) but converted at only 6.9%.
 ## Dashboard 2: When should the bank call?
- 
-![When should the bank call dashboard](tableau_when_to_call.png)
  
 The bars show **how many calls** were made each month (left axis). The orange line shows the **subscription rate** for that month (right axis).
  
